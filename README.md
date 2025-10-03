@@ -6,12 +6,10 @@ Welcome! This repository showcases my work on the **Parware Graphics** project a
 
 ## 👤 About Me
 
-- **Name:** Pritam Lendale  
-- **Email:** [pritamlendale@gmail.com](mailto:pritamlendale@gmail.com)  
-- **Phone:** +91 7822058623  
+- **Email:** [![Email](https://img.shields.io/badge/Email-pritamlendale@gmail.com-red?logo=gmail)](mailto:pritamlendale@gmail.com)  
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pritam%20Lendale-blue?logo=linkedin)](https://www.linkedin.com/in/pritam-lendale)  
-- **Portfolio:** [portfolio-master-pritam.netlify.app](https://portfolio-master-pritam.netlify.app/)  
-
+- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-green?logo=firefox)](https://portfolio-master-pritam.netlify.app/)
+- **Phone:** +91 7822058623  
 ---
 
 ## 💼 Featured Project – Parware Graphics
@@ -58,3 +56,4 @@ Feel free to reach out via email, phone, or LinkedIn for collaboration, project 
 ---
 
 > Crafted with ❤️ by Pritam Lendale
+
